@@ -127,5 +127,11 @@
             "url": "https://alsid.com/company/news/abusing-s4u2self-another-sneaky-active-directory-persistence",
             "category": "windows"
         }    ],
-    "events":[]
+    "events":[
+	        {
+            "title":"EVENT EVENT Test",
+            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
+            "category": "bug"
+        }
+    ]
 }
