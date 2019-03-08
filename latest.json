@@ -132,6 +132,11 @@
             "title":"EVENT EVENT Test",
             "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
             "category": "bug"
+		},
+	{
+            "title":"EVENT EVENT Test",
+            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=171411",
+            "category": "bug"
         }
     ]
 }
