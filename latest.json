@@ -104,7 +104,7 @@
             "title":"WinAFL Intel PT mode",
             "url": "https://github.com/googleprojectzero/winafl/blob/master/readme_pt.md",
             "category": "exploit"
-        },
+        }
     ],
     "linksCurated": [
         {
