@@ -122,11 +122,6 @@
             "url": "https://alsid.com/company/news/abusing-s4u2self-another-sneaky-active-directory-persistence",
             "category": "windows"
         }    ],
-    "events": [
-	        {
-            "title":"Test Event",
-            "url": "http://www.righto.com/2019/01/inside-apollo-guidance-computers-core.html",
-            "category": "New Event"
-        }
+    "events":
     ]
 }
