@@ -127,6 +127,11 @@
             "title":"iOS/macOS: 16-byte uninitialized kernel stack disclosure in if_ports_used_update_wakeuuid()",
             "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
             "category": "bug"
-        }	
+		},
+		        {
+            "title":"iOS/macOS: 16-byte uninitialized kernel stack disclosure in if_ports_used_update_wakeuuid()",
+            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
+            "category": "bug"
+		}
     ]
 }
