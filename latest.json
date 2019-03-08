@@ -109,12 +109,6 @@
             "title":"TEST TEST TEST",
             "url": "https://www.google.com",
             "category": "exploit"
-		},
-	,
-	        {
-            "title":"TEST TEST TEST",
-            "url": "https://www.google.com",
-            "category": "exploit"
         }
     ],
     "linksCurated": [
@@ -133,16 +127,5 @@
             "url": "https://alsid.com/company/news/abusing-s4u2self-another-sneaky-active-directory-persistence",
             "category": "windows"
         }    ],
-    "events":[
-	        {
-            "title":"EVENT EVENT Test",
-            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
-            "category": "bug"
-		},
-	{
-            "title":"EVENT EVENT Test",
-            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
-            "category": "bug"
-		}
-    ]
+    "events":[]
 }
